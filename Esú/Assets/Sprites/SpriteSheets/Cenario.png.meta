@@ -1,254 +1,744 @@
 fileFormatVersion: 2
 guid: af9e28e18108ecc45a5786efe725e2ac
 TextureImporter:
-  fileIDToRecycleName:
-    21300000: Cenario_0
-    21300002: Cenario_1
-    21300004: Cenario_2
-    21300006: Cenario_3
-    21300008: Cenario_4
-    21300010: Cenario_5
-    21300012: Cenario_6
-    21300014: Cenario_7
-    21300016: Cenario_8
-    21300018: Cenario_9
-    21300020: Cenario_10
-    21300022: Cenario_11
-    21300024: Cenario_12
-    21300026: Cenario_13
-    21300028: Cenario_14
-    21300030: Cenario_15
-    21300032: Cenario_16
-    21300034: Cenario_17
-    21300036: Cenario_18
-    21300038: Cenario_19
-    21300040: Cenario_20
-    21300042: Cenario_21
-    21300044: Cenario_22
-    21300046: Cenario_23
-    21300048: Cenario_24
-    21300050: Cenario_25
-    21300052: Cenario_26
-    21300054: Cenario_27
-    21300056: Cenario_28
-    21300058: Cenario_29
-    21300060: Cenario_30
-    21300062: Cenario_31
-    21300064: Cenario_32
-    21300066: Cenario_33
-    21300068: Cenario_34
-    21300070: Cenario_35
-    21300072: Cenario_36
-    21300074: Cenario_37
-    21300076: Cenario_38
-    21300078: Cenario_39
-    21300080: Cenario_40
-    21300082: Cenario_41
-    21300084: Cenario_42
-    21300086: Cenario_43
-    21300088: Cenario_44
-    21300090: Cenario_45
-    21300092: Cenario_46
-    21300094: Cenario_47
-    21300096: Cenario_48
-    21300098: Cenario_49
-    21300100: Cenario_50
-    21300102: Cenario_51
-    21300104: Cenario_52
-    21300106: Cenario_53
-    21300108: Cenario_54
-    21300110: Cenario_55
-    21300112: Cenario_56
-    21300114: Cenario_57
-    21300116: Cenario_58
-    21300118: Cenario_59
-    21300120: Cenario_60
-    21300122: Cenario_61
-    21300124: Cenario_62
-    21300126: Cenario_63
-    21300128: Cenario_64
-    21300130: Cenario_65
-    21300132: Cenario_66
-    21300134: Cenario_67
-    21300136: Cenario_68
-    21300138: Cenario_69
-    21300140: Cenario_70
-    21300142: Cenario_71
-    21300144: Cenario_72
-    21300146: Cenario_73
-    21300148: Cenario_74
-    21300150: Cenario_75
-    21300152: Cenario_76
-    21300154: Cenario_77
-    21300156: Cenario_78
-    21300158: Cenario_79
-    21300160: Cenario_80
-    21300162: Cenario_81
-    21300164: Cenario_82
-    21300166: Cenario_83
-    21300168: Cenario_84
-    21300170: Cenario_85
-    21300172: Cenario_86
-    21300174: Cenario_87
-    21300176: Cenario_88
-    21300178: Cenario_89
-    21300180: Cenario_90
-    21300182: Cenario_91
-    21300184: Cenario_92
-    21300186: Cenario_93
-    21300188: Cenario_94
-    21300190: Cenario_95
-    21300192: Cenario_96
-    21300194: Cenario_97
-    21300196: Cenario_98
-    21300198: Cenario_99
-    21300200: Cenario_100
-    21300202: Cenario_101
-    21300204: Cenario_102
-    21300206: Cenario_103
-    21300208: Cenario_104
-    21300210: Cenario_105
-    21300212: Cenario_106
-    21300214: Cenario_107
-    21300216: Cenario_108
-    21300218: Cenario_109
-    21300220: Cenario_110
-    21300222: Cenario_111
-    21300224: Cenario_112
-    21300226: Cenario_113
-    21300228: Cenario_114
-    21300230: Cenario_115
-    21300232: Cenario_116
-    21300234: Cenario_117
-    21300236: Cenario_118
-    21300238: Cenario_119
-    21300240: Cenario_120
-    21300242: Cenario_121
-    21300244: Cenario_122
-    21300246: Cenario_123
-    21300248: Cenario_124
-    21300250: Cenario_125
-    21300252: Cenario_126
-    21300254: Cenario_127
-    21300256: Cenario_128
-    21300258: Cenario_129
-    21300260: Cenario_130
-    21300262: Cenario_131
-    21300264: Cenario_132
-    21300266: Cenario_133
-    21300268: Cenario_134
-    21300270: Cenario_135
-    21300272: Cenario_136
-    21300274: Cenario_137
-    21300276: Cenario_138
-    21300278: Cenario_139
-    21300280: Cenario_140
-    21300282: Cenario_141
-    21300284: Cenario_142
-    21300286: Cenario_143
-    21300288: Cenario_144
-    21300290: Cenario_145
-    21300292: Cenario_146
-    21300294: Cenario_147
-    21300296: Cenario_148
-    21300298: Cenario_149
-    21300300: Cenario_150
-    21300302: Cenario_151
-    21300304: Cenario_152
-    21300306: Cenario_153
-    21300308: Cenario_154
-    21300310: Cenario_155
-    21300312: Cenario_156
-    21300314: Cenario_157
-    21300316: Cenario_158
-    21300318: Cenario_159
-    21300320: Cenario_160
-    21300322: Cenario_161
-    21300324: Cenario_162
-    21300326: Cenario_163
-    21300328: Cenario_164
-    21300330: Cenario_165
-    21300332: Cenario_166
-    21300334: Cenario_167
-    21300336: Cenario_168
-    21300338: Cenario_169
-    21300340: Cenario_170
-    21300342: Cenario_171
-    21300344: Cenario_172
-    21300346: Cenario_173
-    21300348: Cenario_174
-    21300350: Cenario_175
-    21300352: Cenario_176
-    21300354: Cenario_177
-    21300356: Cenario_178
-    21300358: Cenario_179
-    21300360: Cenario_180
-    21300362: Cenario_181
-    21300364: Cenario_182
-    21300366: Cenario_183
-    21300368: Cenario_184
-    21300370: Cenario_185
-    21300372: Cenario_186
-    21300374: Cenario_187
-    21300376: Cenario_188
-    21300378: Cenario_189
-    21300380: Cenario_190
-    21300382: Cenario_191
-    21300384: Cenario_192
-    21300386: Cenario_193
-    21300388: Cenario_194
-    21300390: Cenario_195
-    21300392: Cenario_196
-    21300394: Cenario_197
-    21300396: Cenario_198
-    21300398: Cenario_199
-    21300400: Cenario_200
-    21300402: Cenario_201
-    21300404: Cenario_202
-    21300406: Cenario_203
-    21300408: Cenario_204
-    21300410: Cenario_205
-    21300412: Cenario_206
-    21300414: Cenario_207
-    21300416: Cenario_208
-    21300418: Cenario_209
-    21300420: Cenario_210
-    21300422: Cenario_211
-    21300424: Cenario_212
-    21300426: Cenario_213
-    21300428: Cenario_214
-    21300430: Cenario_215
-    21300432: Cenario_216
-    21300434: Cenario_217
-    21300436: Cenario_218
-    21300438: Cenario_219
-    21300440: Cenario_220
-    21300442: Cenario_221
-    21300444: Cenario_222
-    21300446: Cenario_223
-    21300448: Cenario_224
-    21300450: Cenario_225
-    21300452: Cenario_226
-    21300454: Cenario_227
-    21300456: Cenario_228
-    21300458: Cenario_229
-    21300460: Cenario_230
-    21300462: Cenario_231
-    21300464: Cenario_232
-    21300466: Cenario_233
-    21300468: Cenario_234
-    21300470: Cenario_235
-    21300472: Cenario_236
-    21300474: Cenario_237
-    21300476: Cenario_238
-    21300478: Cenario_239
-    21300480: Cenario_240
-    21300482: Cenario_241
-    21300484: Cenario_242
-    21300486: Cenario_243
-    21300488: Cenario_244
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Cenario_0
+  - first:
+      213: 21300002
+    second: Cenario_1
+  - first:
+      213: 21300004
+    second: Cenario_2
+  - first:
+      213: 21300006
+    second: Cenario_3
+  - first:
+      213: 21300008
+    second: Cenario_4
+  - first:
+      213: 21300010
+    second: Cenario_5
+  - first:
+      213: 21300012
+    second: Cenario_6
+  - first:
+      213: 21300014
+    second: Cenario_7
+  - first:
+      213: 21300016
+    second: Cenario_8
+  - first:
+      213: 21300018
+    second: Cenario_9
+  - first:
+      213: 21300020
+    second: Cenario_10
+  - first:
+      213: 21300022
+    second: Cenario_11
+  - first:
+      213: 21300024
+    second: Cenario_12
+  - first:
+      213: 21300026
+    second: Cenario_13
+  - first:
+      213: 21300028
+    second: Cenario_14
+  - first:
+      213: 21300030
+    second: Cenario_15
+  - first:
+      213: 21300032
+    second: Cenario_16
+  - first:
+      213: 21300034
+    second: Cenario_17
+  - first:
+      213: 21300036
+    second: Cenario_18
+  - first:
+      213: 21300038
+    second: Cenario_19
+  - first:
+      213: 21300040
+    second: Cenario_20
+  - first:
+      213: 21300042
+    second: Cenario_21
+  - first:
+      213: 21300044
+    second: Cenario_22
+  - first:
+      213: 21300046
+    second: Cenario_23
+  - first:
+      213: 21300048
+    second: Cenario_24
+  - first:
+      213: 21300050
+    second: Cenario_25
+  - first:
+      213: 21300052
+    second: Cenario_26
+  - first:
+      213: 21300054
+    second: Cenario_27
+  - first:
+      213: 21300056
+    second: Cenario_28
+  - first:
+      213: 21300058
+    second: Cenario_29
+  - first:
+      213: 21300060
+    second: Cenario_30
+  - first:
+      213: 21300062
+    second: Cenario_31
+  - first:
+      213: 21300064
+    second: Cenario_32
+  - first:
+      213: 21300066
+    second: Cenario_33
+  - first:
+      213: 21300068
+    second: Cenario_34
+  - first:
+      213: 21300070
+    second: Cenario_35
+  - first:
+      213: 21300072
+    second: Cenario_36
+  - first:
+      213: 21300074
+    second: Cenario_37
+  - first:
+      213: 21300076
+    second: Cenario_38
+  - first:
+      213: 21300078
+    second: Cenario_39
+  - first:
+      213: 21300080
+    second: Cenario_40
+  - first:
+      213: 21300082
+    second: Cenario_41
+  - first:
+      213: 21300084
+    second: Cenario_42
+  - first:
+      213: 21300086
+    second: Cenario_43
+  - first:
+      213: 21300088
+    second: Cenario_44
+  - first:
+      213: 21300090
+    second: Cenario_45
+  - first:
+      213: 21300092
+    second: Cenario_46
+  - first:
+      213: 21300094
+    second: Cenario_47
+  - first:
+      213: 21300096
+    second: Cenario_48
+  - first:
+      213: 21300098
+    second: Cenario_49
+  - first:
+      213: 21300100
+    second: Cenario_50
+  - first:
+      213: 21300102
+    second: Cenario_51
+  - first:
+      213: 21300104
+    second: Cenario_52
+  - first:
+      213: 21300106
+    second: Cenario_53
+  - first:
+      213: 21300108
+    second: Cenario_54
+  - first:
+      213: 21300110
+    second: Cenario_55
+  - first:
+      213: 21300112
+    second: Cenario_56
+  - first:
+      213: 21300114
+    second: Cenario_57
+  - first:
+      213: 21300116
+    second: Cenario_58
+  - first:
+      213: 21300118
+    second: Cenario_59
+  - first:
+      213: 21300120
+    second: Cenario_60
+  - first:
+      213: 21300122
+    second: Cenario_61
+  - first:
+      213: 21300124
+    second: Cenario_62
+  - first:
+      213: 21300126
+    second: Cenario_63
+  - first:
+      213: 21300128
+    second: Cenario_64
+  - first:
+      213: 21300130
+    second: Cenario_65
+  - first:
+      213: 21300132
+    second: Cenario_66
+  - first:
+      213: 21300134
+    second: Cenario_67
+  - first:
+      213: 21300136
+    second: Cenario_68
+  - first:
+      213: 21300138
+    second: Cenario_69
+  - first:
+      213: 21300140
+    second: Cenario_70
+  - first:
+      213: 21300142
+    second: Cenario_71
+  - first:
+      213: 21300144
+    second: Cenario_72
+  - first:
+      213: 21300146
+    second: Cenario_73
+  - first:
+      213: 21300148
+    second: Cenario_74
+  - first:
+      213: 21300150
+    second: Cenario_75
+  - first:
+      213: 21300152
+    second: Cenario_76
+  - first:
+      213: 21300154
+    second: Cenario_77
+  - first:
+      213: 21300156
+    second: Cenario_78
+  - first:
+      213: 21300158
+    second: Cenario_79
+  - first:
+      213: 21300160
+    second: Cenario_80
+  - first:
+      213: 21300162
+    second: Cenario_81
+  - first:
+      213: 21300164
+    second: Cenario_82
+  - first:
+      213: 21300166
+    second: Cenario_83
+  - first:
+      213: 21300168
+    second: Cenario_84
+  - first:
+      213: 21300170
+    second: Cenario_85
+  - first:
+      213: 21300172
+    second: Cenario_86
+  - first:
+      213: 21300174
+    second: Cenario_87
+  - first:
+      213: 21300176
+    second: Cenario_88
+  - first:
+      213: 21300178
+    second: Cenario_89
+  - first:
+      213: 21300180
+    second: Cenario_90
+  - first:
+      213: 21300182
+    second: Cenario_91
+  - first:
+      213: 21300184
+    second: Cenario_92
+  - first:
+      213: 21300186
+    second: Cenario_93
+  - first:
+      213: 21300188
+    second: Cenario_94
+  - first:
+      213: 21300190
+    second: Cenario_95
+  - first:
+      213: 21300192
+    second: Cenario_96
+  - first:
+      213: 21300194
+    second: Cenario_97
+  - first:
+      213: 21300196
+    second: Cenario_98
+  - first:
+      213: 21300198
+    second: Cenario_99
+  - first:
+      213: 21300200
+    second: Cenario_100
+  - first:
+      213: 21300202
+    second: Cenario_101
+  - first:
+      213: 21300204
+    second: Cenario_102
+  - first:
+      213: 21300206
+    second: Cenario_103
+  - first:
+      213: 21300208
+    second: Cenario_104
+  - first:
+      213: 21300210
+    second: Cenario_105
+  - first:
+      213: 21300212
+    second: Cenario_106
+  - first:
+      213: 21300214
+    second: Cenario_107
+  - first:
+      213: 21300216
+    second: Cenario_108
+  - first:
+      213: 21300218
+    second: Cenario_109
+  - first:
+      213: 21300220
+    second: Cenario_110
+  - first:
+      213: 21300222
+    second: Cenario_111
+  - first:
+      213: 21300224
+    second: Cenario_112
+  - first:
+      213: 21300226
+    second: Cenario_113
+  - first:
+      213: 21300228
+    second: Cenario_114
+  - first:
+      213: 21300230
+    second: Cenario_115
+  - first:
+      213: 21300232
+    second: Cenario_116
+  - first:
+      213: 21300234
+    second: Cenario_117
+  - first:
+      213: 21300236
+    second: Cenario_118
+  - first:
+      213: 21300238
+    second: Cenario_119
+  - first:
+      213: 21300240
+    second: Cenario_120
+  - first:
+      213: 21300242
+    second: Cenario_121
+  - first:
+      213: 21300244
+    second: Cenario_122
+  - first:
+      213: 21300246
+    second: Cenario_123
+  - first:
+      213: 21300248
+    second: Cenario_124
+  - first:
+      213: 21300250
+    second: Cenario_125
+  - first:
+      213: 21300252
+    second: Cenario_126
+  - first:
+      213: 21300254
+    second: Cenario_127
+  - first:
+      213: 21300256
+    second: Cenario_128
+  - first:
+      213: 21300258
+    second: Cenario_129
+  - first:
+      213: 21300260
+    second: Cenario_130
+  - first:
+      213: 21300262
+    second: Cenario_131
+  - first:
+      213: 21300264
+    second: Cenario_132
+  - first:
+      213: 21300266
+    second: Cenario_133
+  - first:
+      213: 21300268
+    second: Cenario_134
+  - first:
+      213: 21300270
+    second: Cenario_135
+  - first:
+      213: 21300272
+    second: Cenario_136
+  - first:
+      213: 21300274
+    second: Cenario_137
+  - first:
+      213: 21300276
+    second: Cenario_138
+  - first:
+      213: 21300278
+    second: Cenario_139
+  - first:
+      213: 21300280
+    second: Cenario_140
+  - first:
+      213: 21300282
+    second: Cenario_141
+  - first:
+      213: 21300284
+    second: Cenario_142
+  - first:
+      213: 21300286
+    second: Cenario_143
+  - first:
+      213: 21300288
+    second: Cenario_144
+  - first:
+      213: 21300290
+    second: Cenario_145
+  - first:
+      213: 21300292
+    second: Cenario_146
+  - first:
+      213: 21300294
+    second: Cenario_147
+  - first:
+      213: 21300296
+    second: Cenario_148
+  - first:
+      213: 21300298
+    second: Cenario_149
+  - first:
+      213: 21300300
+    second: Cenario_150
+  - first:
+      213: 21300302
+    second: Cenario_151
+  - first:
+      213: 21300304
+    second: Cenario_152
+  - first:
+      213: 21300306
+    second: Cenario_153
+  - first:
+      213: 21300308
+    second: Cenario_154
+  - first:
+      213: 21300310
+    second: Cenario_155
+  - first:
+      213: 21300312
+    second: Cenario_156
+  - first:
+      213: 21300314
+    second: Cenario_157
+  - first:
+      213: 21300316
+    second: Cenario_158
+  - first:
+      213: 21300318
+    second: Cenario_159
+  - first:
+      213: 21300320
+    second: Cenario_160
+  - first:
+      213: 21300322
+    second: Cenario_161
+  - first:
+      213: 21300324
+    second: Cenario_162
+  - first:
+      213: 21300326
+    second: Cenario_163
+  - first:
+      213: 21300328
+    second: Cenario_164
+  - first:
+      213: 21300330
+    second: Cenario_165
+  - first:
+      213: 21300332
+    second: Cenario_166
+  - first:
+      213: 21300334
+    second: Cenario_167
+  - first:
+      213: 21300336
+    second: Cenario_168
+  - first:
+      213: 21300338
+    second: Cenario_169
+  - first:
+      213: 21300340
+    second: Cenario_170
+  - first:
+      213: 21300342
+    second: Cenario_171
+  - first:
+      213: 21300344
+    second: Cenario_172
+  - first:
+      213: 21300346
+    second: Cenario_173
+  - first:
+      213: 21300348
+    second: Cenario_174
+  - first:
+      213: 21300350
+    second: Cenario_175
+  - first:
+      213: 21300352
+    second: Cenario_176
+  - first:
+      213: 21300354
+    second: Cenario_177
+  - first:
+      213: 21300356
+    second: Cenario_178
+  - first:
+      213: 21300358
+    second: Cenario_179
+  - first:
+      213: 21300360
+    second: Cenario_180
+  - first:
+      213: 21300362
+    second: Cenario_181
+  - first:
+      213: 21300364
+    second: Cenario_182
+  - first:
+      213: 21300366
+    second: Cenario_183
+  - first:
+      213: 21300368
+    second: Cenario_184
+  - first:
+      213: 21300370
+    second: Cenario_185
+  - first:
+      213: 21300372
+    second: Cenario_186
+  - first:
+      213: 21300374
+    second: Cenario_187
+  - first:
+      213: 21300376
+    second: Cenario_188
+  - first:
+      213: 21300378
+    second: Cenario_189
+  - first:
+      213: 21300380
+    second: Cenario_190
+  - first:
+      213: 21300382
+    second: Cenario_191
+  - first:
+      213: 21300384
+    second: Cenario_192
+  - first:
+      213: 21300386
+    second: Cenario_193
+  - first:
+      213: 21300388
+    second: Cenario_194
+  - first:
+      213: 21300390
+    second: Cenario_195
+  - first:
+      213: 21300392
+    second: Cenario_196
+  - first:
+      213: 21300394
+    second: Cenario_197
+  - first:
+      213: 21300396
+    second: Cenario_198
+  - first:
+      213: 21300398
+    second: Cenario_199
+  - first:
+      213: 21300400
+    second: Cenario_200
+  - first:
+      213: 21300402
+    second: Cenario_201
+  - first:
+      213: 21300404
+    second: Cenario_202
+  - first:
+      213: 21300406
+    second: Cenario_203
+  - first:
+      213: 21300408
+    second: Cenario_204
+  - first:
+      213: 21300410
+    second: Cenario_205
+  - first:
+      213: 21300412
+    second: Cenario_206
+  - first:
+      213: 21300414
+    second: Cenario_207
+  - first:
+      213: 21300416
+    second: Cenario_208
+  - first:
+      213: 21300418
+    second: Cenario_209
+  - first:
+      213: 21300420
+    second: Cenario_210
+  - first:
+      213: 21300422
+    second: Cenario_211
+  - first:
+      213: 21300424
+    second: Cenario_212
+  - first:
+      213: 21300426
+    second: Cenario_213
+  - first:
+      213: 21300428
+    second: Cenario_214
+  - first:
+      213: 21300430
+    second: Cenario_215
+  - first:
+      213: 21300432
+    second: Cenario_216
+  - first:
+      213: 21300434
+    second: Cenario_217
+  - first:
+      213: 21300436
+    second: Cenario_218
+  - first:
+      213: 21300438
+    second: Cenario_219
+  - first:
+      213: 21300440
+    second: Cenario_220
+  - first:
+      213: 21300442
+    second: Cenario_221
+  - first:
+      213: 21300444
+    second: Cenario_222
+  - first:
+      213: 21300446
+    second: Cenario_223
+  - first:
+      213: 21300448
+    second: Cenario_224
+  - first:
+      213: 21300450
+    second: Cenario_225
+  - first:
+      213: 21300452
+    second: Cenario_226
+  - first:
+      213: 21300454
+    second: Cenario_227
+  - first:
+      213: 21300456
+    second: Cenario_228
+  - first:
+      213: 21300458
+    second: Cenario_229
+  - first:
+      213: 21300460
+    second: Cenario_230
+  - first:
+      213: 21300462
+    second: Cenario_231
+  - first:
+      213: 21300464
+    second: Cenario_232
+  - first:
+      213: 21300466
+    second: Cenario_233
+  - first:
+      213: 21300468
+    second: Cenario_234
+  - first:
+      213: 21300470
+    second: Cenario_235
+  - first:
+      213: 21300472
+    second: Cenario_236
+  - first:
+      213: 21300474
+    second: Cenario_237
+  - first:
+      213: 21300476
+    second: Cenario_238
+  - first:
+      213: 21300478
+    second: Cenario_239
+  - first:
+      213: 21300480
+    second: Cenario_240
+  - first:
+      213: 21300482
+    second: Cenario_241
+  - first:
+      213: 21300484
+    second: Cenario_242
+  - first:
+      213: 21300486
+    second: Cenario_243
+  - first:
+      213: 21300488
+    second: Cenario_244
   externalObjects: {}
-  serializedVersion: 7
+  serializedVersion: 11
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -268,6 +758,7 @@ TextureImporter:
   isReadable: 0
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
+  vTOnly: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -276,9 +767,9 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: -1
-    aniso: -1
-    mipBias: -100
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
     wrapU: 1
     wrapV: 1
     wrapW: 1
@@ -299,11 +790,15 @@ TextureImporter:
   textureType: 8
   textureShape: 1
   singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
   platformSettings:
-  - serializedVersion: 2
+  - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
     maxTextureSize: 2048
     resizeAlgorithm: 0
@@ -314,7 +809,8 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
-  - serializedVersion: 2
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
     buildTarget: Standalone
     maxTextureSize: 2048
     resizeAlgorithm: 0
@@ -325,7 +821,8 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
-  - serializedVersion: 2
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
     buildTarget: WebGL
     maxTextureSize: 2048
     resizeAlgorithm: 0
@@ -336,6 +833,7 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -355,6 +853,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 818c364b29ad4664381826806d4a8b60
+      internalID: 21300000
       vertices: []
       indices: 
       edges: []
@@ -375,6 +874,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: c50ce9c9c3ac13841bc23ca3df9874f4
+      internalID: 21300004
       vertices: []
       indices: 
       edges: []
@@ -395,6 +895,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: b7160e06ede589048baca5f9a3c65b67
+      internalID: 21300006
       vertices: []
       indices: 
       edges: []
@@ -415,6 +916,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: ebebd0a5717d2d644901fbc9dafda126
+      internalID: 21300008
       vertices: []
       indices: 
       edges: []
@@ -435,6 +937,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 75b35af71a2c604469806d934dae2cd0
+      internalID: 21300010
       vertices: []
       indices: 
       edges: []
@@ -455,6 +958,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 1e3a9d89b10fe4840a332e30d525654f
+      internalID: 21300012
       vertices: []
       indices: 
       edges: []
@@ -475,6 +979,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 60d56022ba64e824694f90f8f7a968ef
+      internalID: 21300014
       vertices: []
       indices: 
       edges: []
@@ -495,6 +1000,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 0a14390d17033cf4dbaad3ef440bf8a4
+      internalID: 21300016
       vertices: []
       indices: 
       edges: []
@@ -515,6 +1021,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 95d89039c68819d40bc4d39f683cf76e
+      internalID: 21300018
       vertices: []
       indices: 
       edges: []
@@ -535,6 +1042,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 5e7d94565f873da489277e3709bb6bb7
+      internalID: 21300020
       vertices: []
       indices: 
       edges: []
@@ -555,6 +1063,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: edf7e23849660554ca5261416ebecab3
+      internalID: 21300022
       vertices: []
       indices: 
       edges: []
@@ -575,6 +1084,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 3817bb10edc4993498afd088ac3110d0
+      internalID: 21300024
       vertices: []
       indices: 
       edges: []
@@ -595,6 +1105,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: da7fd283ca7307e4b91927ad97eca302
+      internalID: 21300026
       vertices: []
       indices: 
       edges: []
@@ -615,6 +1126,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 5ae4fc5d5271d7c43bf28d6e73aa50d1
+      internalID: 21300028
       vertices: []
       indices: 
       edges: []
@@ -635,6 +1147,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: c2953a357632f7e4388defbb6fa15a35
+      internalID: 21300030
       vertices: []
       indices: 
       edges: []
@@ -655,6 +1168,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 033f759c516720140a399b2b45482b7a
+      internalID: 21300032
       vertices: []
       indices: 
       edges: []
@@ -675,6 +1189,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 655a5e30c65679e47a21838a00113a79
+      internalID: 21300034
       vertices: []
       indices: 
       edges: []
@@ -695,6 +1210,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: d9da033b5e1c4b54fa142f5f5ee7ccad
+      internalID: 21300036
       vertices: []
       indices: 
       edges: []
@@ -715,6 +1231,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: a670c49483d00b348bf135bbdf616a62
+      internalID: 21300038
       vertices: []
       indices: 
       edges: []
@@ -735,6 +1252,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: a213047a06aca834684a5f4f847864a1
+      internalID: 21300040
       vertices: []
       indices: 
       edges: []
@@ -755,6 +1273,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 3e9d7dd2095770449bc58d090ec403fe
+      internalID: 21300042
       vertices: []
       indices: 
       edges: []
@@ -775,6 +1294,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 8a3c99d710e20fe40a0f8cba27e2d920
+      internalID: 21300044
       vertices: []
       indices: 
       edges: []
@@ -795,6 +1315,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 82fdf60e59723b9439196cfaf142e114
+      internalID: 21300046
       vertices: []
       indices: 
       edges: []
@@ -815,6 +1336,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 41e09643195bd8b42b604c8ddbd2939f
+      internalID: 21300048
       vertices: []
       indices: 
       edges: []
@@ -835,6 +1357,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: e1d35a85b868e6c4696d402144ac256f
+      internalID: 21300050
       vertices: []
       indices: 
       edges: []
@@ -855,6 +1378,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 3fc39e9cec8a16e4596f6d2c6912c17e
+      internalID: 21300052
       vertices: []
       indices: 
       edges: []
@@ -875,6 +1399,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: e0bae9063c4aabe4dad3d1ae48d62115
+      internalID: 21300054
       vertices: []
       indices: 
       edges: []
@@ -895,6 +1420,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: f88591631108d5e4eb5e56781c77ad47
+      internalID: 21300056
       vertices: []
       indices: 
       edges: []
@@ -915,6 +1441,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 4081419e7861f3447849bc96b1252d33
+      internalID: 21300002
       vertices: []
       indices: 
       edges: []
@@ -935,6 +1462,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 2b88612ff0fb31a44b7107779bef1d41
+      internalID: 21300058
       vertices: []
       indices: 
       edges: []
@@ -955,6 +1483,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 7fd657250a8bc39439fa629311e1c6d9
+      internalID: 21300060
       vertices: []
       indices: 
       edges: []
@@ -963,10 +1492,12 @@ TextureImporter:
     physicsShape: []
     bones: []
     spriteID: f87318250e0341546a4033bc8d4071a7
+    internalID: 0
     vertices: []
     indices: 
     edges: []
     weights: []
+    secondaryTextures: []
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
